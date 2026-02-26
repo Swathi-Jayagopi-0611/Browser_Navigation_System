@@ -27,14 +27,22 @@ ________________________________________
 BrowserNavigationSystem 
 │ ├── src/browser │ ├── Browser.java │ ├── BrowserHistory.java │ ├── Page.java │ └── Experiment.java │ └── README.md
 ________________________________________
-### Data Structures Used
-Data Structure	Purpose
-Stack	Back and Forward navigation
-Queue	Store browsing history in order
-List	Store all visited pages
-DeQueue	Store recent browsing history
-________________________________________
-### How to Run
+
+---
+
+## Data Structures Used
+
+| Data Structure | Purpose |
+|----------------|---------|
+| Stack | Back and Forward navigation |
+| Queue | Store browsing history in order |
+| List | Store all visited pages |
+| DeQueue | Store recent browsing history |
+
+---
+
+## How to Run
+
 Step 1: Clone repository
 git clone https://github.com/Swathi-Jayagopi-0611/Browser_Navigation_System.git
 Step 2: Open in Eclipse
